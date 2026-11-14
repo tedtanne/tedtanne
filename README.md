@@ -4,7 +4,7 @@
 
 First, i trust everyone is safe.
 
-i've worked in music, virtual reality, chips, consumer and professional electronics, healthtech and defensetech, including at Apple, Microsoft and IBM. Co-founder twice, both with exits.
+i've worked across music, virtual reality, chips, consumer and professional electronics, HealthTech and DefenseTech, with time at Apple, Microsoft and IBM along the way. Two-time co-founder, two exits.
 
 The code is here. The thinking is at **[tedtanner.org](https://www.tedtanner.org/)**: essays on computation, physics, the water, and the Infinite Human Do-Loop.
 
