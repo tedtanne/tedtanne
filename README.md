@@ -1,5 +1,5 @@
 <a href="https://www.tedtanner.org/no-coach-at-depth-the-autodidactic-universe/">
-  <img alt="The universe teaches itself: a freediver descends a cone of light beneath the sea surface, framed by five equations, the Fourier series among them. The do-loop at the surface turns, bubbles rise, and sonar rings fall into the deep." src="assets/no-coach-at-depth.svg" width="100%">
+  <img alt="The universe teaches itself: a freediver descends a cone of light beneath the sea surface, framed by six equations, Navier–Stokes and the Fourier series among them. The do-loop at the surface turns, bubbles rise, and sonar rings fall into the deep." src="assets/no-coach-at-depth.svg" width="100%">
 </a>
 
 First, i trust everyone is safe.

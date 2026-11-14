@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1859 1162" width="1859" height="1162" role="img" aria-labelledby="t d">
 <title id="t">The universe teaches itself</title>
-<desc id="d">A freediver descends a cone of light beneath a sea surface under a starfield, framed by five equations: spacetime, the Schrödinger equation, a cubic learning system, the second law, and the Fourier series. The do-loop at the surface turns, bubbles rise, and sonar rings fall into the deep.</desc>
+<desc id="d">A freediver descends a cone of light beneath a sea surface under a starfield, framed by six equations: spacetime, the Schrödinger equation, a cubic learning system, the second law, Navier–Stokes, and the Fourier series. The do-loop at the surface turns, bubbles rise, and sonar rings fall into the deep.</desc>
 <defs>
  <radialGradient id="glint"><stop offset="0" stop-color="#d4fbf7" stop-opacity=".6"/><stop offset=".55" stop-color="#bff6f2" stop-opacity=".18"/><stop offset="1" stop-color="#bff6f2" stop-opacity="0"/></radialGradient>
  <clipPath id="cone"><path d="M929 418 L1540 1162 L320 1162 Z"/></clipPath>
@@ -27,8 +27,10 @@
 <line x1="462" y1="994" x2="348" y2="1133" stroke="#4aa9a0" stroke-width="2.2" stroke-linecap="round" opacity=".9"/>
 <line x1="734" y1="1023" x2="566" y2="1107" stroke="#5fb3b3" stroke-width="1.2" opacity=".35"/>
 <circle cx="566" cy="1107" r="2.6" fill="#7fb6bb"/>
-<text x="1432" y="880" font-family="ui-monospace,Menlo,Consolas,'DejaVu Sans Mono','Courier New',monospace" font-size="37" fill="#e8f8f8">f(x) = Σ cₙ e<tspan dy="-15" font-size="24">inx</tspan></text>
-<text x="1432" y="917" font-family="Georgia,'Times New Roman',serif" font-size="18" letter-spacing="3" fill="#88aab4">· every wave is a sum ·</text>
+<text x="130" y="800" font-family="ui-monospace,Menlo,Consolas,'DejaVu Sans Mono','Courier New',monospace" font-size="37" fill="#e8f8f8">ρ Du/Dt = −∇p + μ∇²u</text>
+<text x="130" y="837" font-family="Georgia,'Times New Roman',serif" font-size="18" letter-spacing="3" fill="#88aab4">· how water moves ·</text>
+<text x="1432" y="800" font-family="ui-monospace,Menlo,Consolas,'DejaVu Sans Mono','Courier New',monospace" font-size="37" fill="#e8f8f8">f(x) = Σ cₙ e<tspan dy="-15" font-size="24">inx</tspan></text>
+<text x="1432" y="837" font-family="Georgia,'Times New Roman',serif" font-size="18" letter-spacing="3" fill="#88aab4">· every wave is a sum ·</text>
 <text x="929.5" y="1092" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="36" letter-spacing="1.5" fill="#a3acb1">The universe teaches itself — no supervision, no menu, no bottom but the one it learns.</text>
 <g class="loop">
  <circle cx="929" cy="418" r="35" fill="none" stroke="#f2cf86" stroke-width="3.2" stroke-linecap="round" stroke-dasharray="38 182"/>
