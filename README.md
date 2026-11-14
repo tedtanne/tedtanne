@@ -1,13 +1,10 @@
-<a href="https://www.tedtanner.org/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/depth-dark.svg">
-    <img alt="Ted C. Tanner Jr. — where suspicious coincidence lives." src="assets/depth-light.svg" width="100%">
-  </picture>
+<a href="https://www.tedtanner.org/no-coach-at-depth-the-autodidactic-universe/">
+  <img alt="No Coach at Depth: a freediver descends a cone of light beneath the sea surface, framed by four equations. The do-loop at the surface turns, bubbles rise, and sonar rings fall into the deep." src="assets/no-coach-at-depth.svg" width="100%">
 </a>
 
 First, i trust everyone is safe.
 
-i have spent a career building things that have to work: audio DSP at Spatializer, OS X at Apple, DokChain at PokitDok, then IBM Watson Health and BigBear.ai. Self-taught across most of it.
+i've worked in music, virtual reality, chips, consumer and professional electronics, healthtech and defensetech, including at Apple, Microsoft and IBM. Co-founder twice, both with exits.
 
 The code is here. The thinking is at **[tedtanner.org](https://www.tedtanner.org/)**: essays on computation, physics, the water, and the Infinite Human Do-Loop.
 
