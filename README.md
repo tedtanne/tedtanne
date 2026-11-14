@@ -27,10 +27,10 @@ Short, working Python on one idea at a time.
 
 <!-- snakebytes:start -->
 - [SnakeByte\[23\]: Maynard-Cross Learning (MCL): Hive Minds as a Single RL Agent](https://www.tedtanner.org/snakebyte23-maynard-cross-learning-mcl-hive-minds-as-a-single-rl-agent/) <sub>September 2026</sub>
-- [SnakeByte\[22\]: MegaParse (An LLM's Dream Parser with No Bits Left Behind)](https://www.tedtanner.org/snakebyte22-megaparse-an-llms-dream-parser-with-no-bits-left-behind/) <sub>October 2025</sub>
+- [SnakeByte\[22\]: MegaParse (An LLM’s Dream Parser with No Bits Left Behind)](https://www.tedtanner.org/snakebyte22-megaparse-an-llms-dream-parser-with-no-bits-left-behind/) <sub>October 2025</sub>
 - [SnakeByte\[21\]: The Token Arms Race: Architectures Behind Long-Context Foundation Models](https://www.tedtanner.org/snakebyte21-the-token-arms-race-architectures-behind-long-context-foundation-models/) <sub>July 2025</sub>
 - [SnakeByte\[20\] Fractals Fractals Everywhere](https://www.tedtanner.org/snakebyte20-fractals-fractals-everywhere/) <sub>April 2025</sub>
-- [SnakeByte\[19\] - Software As A Religion](https://www.tedtanner.org/snakebyte19-software-as-a-religion/) <sub>January 2025</sub>
+- [SnakeByte\[19\] – Software As A Religion](https://www.tedtanner.org/snakebyte19-software-as-a-religion/) <sub>January 2025</sub>
 <!-- snakebytes:end -->
 
 ### Elsewhere
