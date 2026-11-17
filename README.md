@@ -11,11 +11,11 @@ The code is here. The thinking is at **[tedtanner.org](https://www.tedtanner.org
 ### Recent essays
 
 <!-- recent:start -->
+- [Can You Teach Curiosity? (aka Rocks Rocking)](https://www.tedtanner.org/can-you-teach-curiosity-aka-rocks-rocking/) <sub>November 2026</sub>
 - [The Denominator (aka The Meter Was Always Running In Joules)](https://www.tedtanner.org/the-denominator-aka-the-meter-was-always-running-in-joules/) <sub>October 2026</sub>
 - [Motivation Vs Discipline](https://www.tedtanner.org/motivation-vs-discipline/) <sub>September 2026</sub>
 - [9.11.2026](https://www.tedtanner.org/9-11-2026/) <sub>September 2026</sub>
 - [Return To The Analog (aka Life Is Not Band-Limited)](https://www.tedtanner.org/return-to-the-analog-aka-life-is-not-band-limited/) <sub>August 2026</sub>
-- [No Coach at Depth: The Autodidactic Universe](https://www.tedtanner.org/no-coach-at-depth-the-autodidactic-universe/) <sub>August 2026</sub>
 <!-- recent:end -->
 
 ### SnakeBytes
